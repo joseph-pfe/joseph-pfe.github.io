@@ -105,3 +105,30 @@ body {
 
     text-align: center;
 }
+
+.lightShade {
+
+    /* background-color: lightgray; */
+
+}
+
+.darkShade {
+
+    /* background-color: darkgray; */
+
+}
+
+p.shaded {
+
+    background-color: rgb(126, 89, 89);
+}
+
+h2.shaded {
+
+    background-color: rgb(227, 227, 227);
+}
+
+h1#pageTitle {
+
+    color: red;
+}
