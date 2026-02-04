@@ -6,7 +6,6 @@
 :root {
 
     font-size: 20px;
-    
 }
 
 #main-container {
@@ -15,10 +14,10 @@
     height: 500px;
     padding: 10px;
     background-color: aquamarine;
-    display: flex; /* This rule activates flex layout for a container */
-    flex-direction: row; /* determines the direction of the content flow */
+    display: flex; /* This rule activates flex layout for a container */ 
+    flex-direction: row; /* determines the direction of the content flow */ 
     justify-content: flex-start; /* align items based on the main axis */
-    align-items: center; /* align items based on the cross axis */
+    align-items: center; /* align items based on the main axis */
     gap: 10px; /* Only available for flex and grid mode */
 
     overflow-x: scroll;
@@ -31,13 +30,11 @@
     padding: 15px;
     min-width: 600px;
     min-height: 400px;
-
+    
     display: flex;
     flex-direction: row;
-    justify-content: flex-end;
+    justify-content: right;
     align-items: flex-end;
-
     
 
 }
-

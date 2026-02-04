@@ -5,14 +5,13 @@
 
 div {
 
-    outline: 3px solid #f0f;
+    outline: 3px solid #db00db;
     padding: 10px;
     max-width: 300px;
     max-height: 300px;
     overflow-x: scroll;
     overflow-y: hidden;
-    transform: rotate(45deg) skewY(45deg) translate(-100px, -100px);
-   
+    transform: rotate(45deg);
 
 }
 
